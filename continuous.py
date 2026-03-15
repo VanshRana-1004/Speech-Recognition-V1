@@ -18,7 +18,6 @@ DG_URL=(
     "&encoding=linear16"
     "&sample_rate=16000"
     "&endpointing=2000"
-    "&interim_results=true"
 )
 
 async def microphone_stream(websocket):
